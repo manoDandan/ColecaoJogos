@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="platforms">
+        <item>PC</item>
+        <item>PlayStation 5</item>
+        <item>PlayStation 4</item>
+        <item>Xbox Series X/S</item>
+        <item>Xbox One</item>
+        <item>Nintendo Switch</item>
+        <item>Mobile</item>
+        <item>Outra</item>
+    </string-array>
+
+    <string-array name="genres">
+        <item>Ação</item>
+        <item>Aventura</item>
+        <item>RPG</item>
+        <item>Estratégia</item>
+        <item>Esporte</item>
+        <item>Corrida</item>
+        <item>Tiro</item>
+        <item>Simulação</item>
+        <item>Puzzle</item>
+        <item>Terror</item>
+        <item>Outro</item>
+    </string-array>
+</resources>

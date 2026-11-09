@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.colecaojogos.app-debug-32:/layout_activity_form.xml.flat",
+        "source": "com.example.colecaojogos.app-main-34:/layout/activity_form.xml"
+    },
+    {
+        "merged": "com.example.colecaojogos.app-debug-32:/layout_item_game.xml.flat",
+        "source": "com.example.colecaojogos.app-main-34:/layout/item_game.xml"
+    },
+    {
+        "merged": "com.example.colecaojogos.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.colecaojogos.app-main-34:/layout/activity_main.xml"
+    }
+]

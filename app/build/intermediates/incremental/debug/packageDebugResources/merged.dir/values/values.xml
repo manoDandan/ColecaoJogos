@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genres">
+        <item>Ação</item>
+        <item>Aventura</item>
+        <item>RPG</item>
+        <item>Estratégia</item>
+        <item>Esporte</item>
+        <item>Corrida</item>
+        <item>Tiro</item>
+        <item>Simulação</item>
+        <item>Puzzle</item>
+        <item>Terror</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="platforms">
+        <item>PC</item>
+        <item>PlayStation 5</item>
+        <item>PlayStation 4</item>
+        <item>Xbox Series X/S</item>
+        <item>Xbox One</item>
+        <item>Nintendo Switch</item>
+        <item>Mobile</item>
+        <item>Outra</item>
+    </string-array>
+    <string name="add_game">Adicionar jogo</string>
+    <string name="app_name">Coleção de Jogos</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+    <string name="delete_message">Deseja realmente excluir \"%1$s\"?</string>
+    <string name="delete_title">Excluir jogo</string>
+    <string name="edit_game">Editar jogo</string>
+    <string name="empty_list">Nenhum jogo cadastrado.\nToque em + para adicionar.</string>
+    <string name="error_required">Campo obrigatório</string>
+    <string name="error_year">Informe um ano entre %1$d e %2$d</string>
+    <string name="game_deleted">Jogo excluído</string>
+    <string name="game_not_found">Jogo não encontrado</string>
+    <string name="game_saved">Jogo salvo com sucesso</string>
+    <string name="game_updated">Jogo atualizado</string>
+    <string name="hint_genre">Gênero</string>
+    <string name="hint_platform">Plataforma</string>
+    <string name="hint_title">Título</string>
+    <string name="hint_year">Ano de lançamento</string>
+    <string name="info_format">%1$s • %2$s • %3$d</string>
+    <string name="label_completed">Já zerei este jogo</string>
+    <string name="label_rating">Minha nota</string>
+    <string name="new_game">Novo jogo</string>
+    <string name="rating_format">★ %1$.1f</string>
+    <string name="save">Salvar</string>
+    <string name="status_completed">Zerado</string>
+    <string name="status_not_completed">Não zerado</string>
+    <style name="Theme.ColecaoJogos" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>

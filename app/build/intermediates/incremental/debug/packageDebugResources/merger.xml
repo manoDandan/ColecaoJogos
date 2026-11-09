@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res"><file name="activity_form" path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res\layout\activity_form.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="item_game" path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res\layout\item_game.xml" qualifiers="" type="layout"/><file path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="platforms">
+        <item>PC</item>
+        <item>PlayStation 5</item>
+        <item>PlayStation 4</item>
+        <item>Xbox Series X/S</item>
+        <item>Xbox One</item>
+        <item>Nintendo Switch</item>
+        <item>Mobile</item>
+        <item>Outra</item>
+    </string-array><string-array name="genres">
+        <item>Ação</item>
+        <item>Aventura</item>
+        <item>RPG</item>
+        <item>Estratégia</item>
+        <item>Esporte</item>
+        <item>Corrida</item>
+        <item>Tiro</item>
+        <item>Simulação</item>
+        <item>Puzzle</item>
+        <item>Terror</item>
+        <item>Outro</item>
+    </string-array></file><file path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Coleção de Jogos</string><string name="empty_list">Nenhum jogo cadastrado.\nToque em + para adicionar.</string><string name="add_game">Adicionar jogo</string><string name="delete">Excluir</string><string name="delete_title">Excluir jogo</string><string name="delete_message">Deseja realmente excluir \"%1$s\"?</string><string name="cancel">Cancelar</string><string name="game_deleted">Jogo excluído</string><string name="info_format">%1$s • %2$s • %3$d</string><string name="rating_format">★ %1$.1f</string><string name="status_completed">Zerado</string><string name="status_not_completed">Não zerado</string><string name="new_game">Novo jogo</string><string name="edit_game">Editar jogo</string><string name="hint_title">Título</string><string name="hint_platform">Plataforma</string><string name="hint_genre">Gênero</string><string name="hint_year">Ano de lançamento</string><string name="label_rating">Minha nota</string><string name="label_completed">Já zerei este jogo</string><string name="save">Salvar</string><string name="game_saved">Jogo salvo com sucesso</string><string name="game_updated">Jogo atualizado</string><string name="game_not_found">Jogo não encontrado</string><string name="error_required">Campo obrigatório</string><string name="error_year">Informe um ano entre %1$d e %2$d</string></file><file path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.ColecaoJogos" parent="Theme.Material3.DayNight.NoActionBar"/></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\panda\OneDrive\Desktop\ColecaoJogos\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>
